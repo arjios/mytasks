@@ -47,9 +47,13 @@ Bibliotecas
 
 Instalação
 
-    Tem-se que ter instalado o gerenciador de pacotes yarn, no site do gerenciador voce enncontrara instruções para faze-lo https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable   
+    Tem-se que ter instalado o gerenciador de pacotes yarn. 
+    No site do gerenciador voce enncontrara instruções para faze-lo.
+    https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable   
 
-    Sera necessario clonar o repositorio com o comando git clone git@github.com:arjios/mytasks.git. Apos a clonagem, na pasta do App criada, utilize o comando yarn -i para instalar as dependencias, apos o termino o app estara pronto para inicializar.
+    Sera necessario clonar o repositorio com o comando git clone git@github.com:arjios/mytasks.git. 
+    Apos a clonagem, na pasta do App criada, utilize o comando yarn -i para instalar as dependencias. 
+    quando terminnar, o app estara pronto para inicializar.
 
 Uso
 
