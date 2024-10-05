@@ -53,8 +53,10 @@ Instalação
 
 Uso
 
-    Para iniciar usa-se o comando yarn start, algumas vezes o app fica demorando para iniciar e não consegue conexão, é necessário reiniciar com o comando yarn start --tunnel.
-    A pagina inicial de login se apresennta, usuario foi definido como admin@gmail.com e senha admin para acesso. Segue as telas:
+    Para iniciar usa-se o comando yarn start, algumas vezes o app fica demorando para iniciar e não consegue conexão. 
+    É necessário reiniciar com o comando yarn start --tunnel.
+    A pagina inicial de login se apresennta, usuario foi definido como admin@gmail.com e senha admin para acesso. 
+    Segue as telas:
 
 
 
