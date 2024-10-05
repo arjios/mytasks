@@ -32,6 +32,7 @@ Pré-requisitos
     - styled-components  https://styled-components.com
     - Expo https://expo.dev
     - React Navigation  https://reactnavigation.org/
+    - Async Storage https://reactnative.dev/docs/asyncstorage
 
 . Sites
     - React Native  https://reactnative.dev/
@@ -39,7 +40,7 @@ Pré-requisitos
     - Node.js https://nodejs.org
     - VSCode https://code.visualstudio.com/
     - Typescript https://www.typescriptlang.org
-    
+
 
 
 . Instalação
