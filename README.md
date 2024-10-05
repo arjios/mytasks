@@ -26,15 +26,29 @@ Pré-requisitos
     - Prettier
     - JavaScript and TypeScript
 
+. Bibliotecas
+    - Formik  https://formik.org
+    - Yup  https://classic.yarnpkg.com/en/package/yup  (para instalar: yarn add yup)
+    - styled-components  https://styled-components.com
+    - Expo https://expo.dev
+    - React Navigation  https://reactnavigation.org/
+
+. Sites
+    - React Native  https://reactnative.dev/
+    - React https://pt-br.legacy.reactjs.org/
+    - Node.js https://nodejs.org
+    - VSCode https://code.visualstudio.com/
+    - Typescript https://www.typescriptlang.org
+    
 
 
-5. Instalação
+. Instalação
 
     Tem-se que ter instalado o gerenciador de pacotes yarn, no site do gerenciador voce enncontrara instruções para faze-lo https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable   
 
     Sera necessario clonar o repositorio com o comando git clone git@github.com:arjios/mytasks.git. Apos a clonagem, na pasta do App criada, utilize o comando yarn -i para instalar as dependencias, apos o termino o app estara pronto para inicializar.
 
-6. Uso
+. Uso
 
     Para iniciar usa-se o comando yarn start, algumas vezes o app fica demorando para iniciar e não consegue conexão, é necessário reiniciar com o comando yarn start --tunnel.
     A pagina inicial de login se apresennta, usuario foi definido como admin@gmail.com e senha admin para acesso. Segue as telas:
