@@ -83,6 +83,8 @@ export default function Signin({ onBlur }: SigninProps) {
                                     placeholder='Digite o email'
                                     onBlur={onBlur}
                                     value={values.mail}
+                                    keyboardType='email-address'
+                                    autoCapitaliza='none'
 
                                 />
                             </InputContainer>
@@ -98,6 +100,7 @@ export default function Signin({ onBlur }: SigninProps) {
                                     placeholder='Digite a senha'
                                     onBlur={onBlur}
                                     value={values.password}
+                                    secureTextEntry
                                 />
 
                             </InputContainer>
