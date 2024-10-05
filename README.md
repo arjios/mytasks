@@ -60,8 +60,7 @@ Pré-requisitos
     ####         Tela de Login
     ####  ------------------------------------
 
-             
-   ![alt text](assets/ScreenShots/Tarefa.jpg)
+    ![alt text](assets/ScreenShots/Tarefa.jpg)        
     ####    Tela de incluir novas tarefas
     ####  ------------------------------------
 
