@@ -56,30 +56,30 @@ Pré-requisitos
 
 
 
-    ![alt text](assets/ScreenShots/Login.jpg)
+    ![Login](assets/ScreenShots/Login.jpg)
     ####         Tela de Login
     ####  ------------------------------------
 
-    ![alt text](assets/ScreenShots/Tarefa.jpg)        
+    ![IncluirTarefa](assets/ScreenShots/Tarefa.jpg)        
     ####    Tela de incluir novas tarefas
     ####  ------------------------------------
 
 
 
-    ![alt text](assets/ScreenShots/Tarefas.jpg)
+    ![Tarefas](assets/ScreenShots/Tarefas.jpg)
     ####           Tarefas incluidas
     ####  ------------------------------------  
 
 
 
 
-    ![alt text](assets/ScreenShots/Detalhes.jpg)
+    ![Detalhes](assets/ScreenShots/Detalhes.jpg)
     ####        Tela de incluir detalhes
     ####  ------------------------------------ 
 
 
 
-    ![alt text](assets/ScreenShots/DetalheIncluido.jpg)
+    ![DetalheIncluido](assets/ScreenShots/DetalheIncluido.jpg)
     ####           Detalhe incluido
     ####  ------------------------------------
    
