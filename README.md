@@ -26,7 +26,8 @@ Pré-requisitos
     - Prettier
     - JavaScript and TypeScript
 
- Bibliotecas
+Bibliotecas
+
     - Formik  https://formik.org
     - Yup  https://classic.yarnpkg.com/en/package/yup  (para instalar: yarn add yup)
     - styled-components  https://styled-components.com
